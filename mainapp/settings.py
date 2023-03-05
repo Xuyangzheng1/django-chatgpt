@@ -29,7 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 # Open api key field
-OPENAI_KEY = "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"
+OPENAI_KEY = "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"
 
 
 # Application definition
